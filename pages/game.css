@@ -124,7 +124,14 @@ main {
     margin-top: -45%;
   }
 
-  
+  .airplane{
+    position: absolute;
+    width: 12%;
+    margin-top: -7%;
+    margin-left: 89%;
+  }
+
+
   
 
   
