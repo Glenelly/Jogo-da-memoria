@@ -131,6 +131,27 @@ main {
     margin-left: 89%;
   }
 
+  .cloud{
+    position: absolute;
+    width: 18%;
+    margin-top: -13%;
+    margin-left: 8%;
+  }
+
+  .clouds{
+    position: absolute;
+    width: 13%;
+    margin-top: -30%;
+    margin-left: -3%;
+  }
+
+  .seagull{
+    position: absolute;
+    width: 4%;
+    margin-top: -40%;
+    margin-left: 88%;
+  }
+
 
   
 
